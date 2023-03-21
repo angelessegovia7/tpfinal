@@ -1,0 +1,55 @@
+body {
+    background-image: url(./background.jpg);
+}
+.home {
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.forMulario {
+    background-color: aquamarine ;
+    border-radius: 5px;
+    margin-right: 30cm;
+
+    border: 1px solid aqua;
+    
+}
+
+.nombre {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+    
+}
+.apellido {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+}
+br
+.fecha {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+}
+.telefono {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+}
+.direccion {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+}
+.telcontac {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+}
+.email {
+    margin-top: 1px;
+    border: 1px solid aquamarine;
+    outline: none;
+
+}
